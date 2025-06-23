@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Artikkelin Kentän äänet kommentit	</title>
+	<atom:link href="/kentan-aanet/feed/" rel="self" type="application/rss+xml" />
+	<link>/kentan-aanet/</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 Jun 2015 11:30:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com/"/><atom:link rel="hub" href="https://websubhub.com/hub"/>	<item>
+		<title>
+		Kirjoittaja: Några tankar om Lightnings önskan att hålla arenan blå &#124; Musik, sport &#38; allt där emellan		</title>
+		<link>/kentan-aanet/#comment-29</link>
+
+		<dc:creator><![CDATA[Några tankar om Lightnings önskan att hålla arenan blå &#124; Musik, sport &#38; allt där emellan]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2015 11:30:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-29</guid>
+
+					<description><![CDATA[[&#8230;] är en annan femma. Hannu Tihinen hade några intressanta exempel på detta i en artikel i Jalkapallolehti [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] är en annan femma. Hannu Tihinen hade några intressanta exempel på detta i en artikel i Jalkapallolehti [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Artikkelin Ruotsil on Zlatan ja Suomel on Nenä kommentit	</title>
+	<atom:link href="/ruotsil-zlatan-ja-suomel-nena/feed/" rel="self" type="application/rss+xml" />
+	<link>/ruotsil-zlatan-ja-suomel-nena/</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Nov 2015 17:27:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com/"/><atom:link rel="hub" href="https://websubhub.com/hub"/>	<item>
+		<title>
+		Kirjoittaja: Muudey		</title>
+		<link>/ruotsil-zlatan-ja-suomel-nena/#comment-10</link>
+
+		<dc:creator><![CDATA[Muudey]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2015 17:27:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=254#comment-10</guid>
+
+					<description><![CDATA[EIF pelaa ykkösessä.
+Muuten aivan loistava juttu!]]></description>
+			<content:encoded><![CDATA[<p>EIF pelaa ykkösessä.<br />
+Muuten aivan loistava juttu!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Kirjoittaja: kiskis		</title>
+		<link>/ruotsil-zlatan-ja-suomel-nena/#comment-9</link>
+
+		<dc:creator><![CDATA[kiskis]]></dc:creator>
+		<pubDate>Tue, 20 May 2014 07:42:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=254#comment-9</guid>
+
+					<description><![CDATA[Juttu oli upea ja koukuttava. Kääntöpuoli johon moni jalkapalloilija pystynee samaistua jollain mittakaavalla]]></description>
+			<content:encoded><![CDATA[<p>Juttu oli upea ja koukuttava. Kääntöpuoli johon moni jalkapalloilija pystynee samaistua jollain mittakaavalla</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

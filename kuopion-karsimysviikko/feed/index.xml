@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Artikkelin Kuopion kärsimysviikko kommentit	</title>
+	<atom:link href="/kuopion-karsimysviikko/feed/" rel="self" type="application/rss+xml" />
+	<link>/kuopion-karsimysviikko/</link>
+	<description></description>
+	<lastBuildDate>Tue, 29 Apr 2014 13:33:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com/"/><atom:link rel="hub" href="https://websubhub.com/hub"/>	<item>
+		<title>
+		Kirjoittaja: Lari Vesander		</title>
+		<link>/kuopion-karsimysviikko/#comment-8</link>
+
+		<dc:creator><![CDATA[Lari Vesander]]></dc:creator>
+		<pubDate>Tue, 29 Apr 2014 13:33:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=198#comment-8</guid>
+
+					<description><![CDATA[Vastauksena kommenttiin &lt;a href=&quot;/kuopion-karsimysviikko/#comment-7&quot;&gt;Zalamapartio&lt;/a&gt;.
+
+Tikulla silmään sitä, joka kolmen vuoden takaisia muistelee. Ymmärrän toki, että tämän jutun näkökulma miellyttää KuPS-kannattajaa Pennas-jutun vastaavaa enemmän, mutta se ei tee aiemmasta analysoinnista arvailua tai nykyisestä Jumalan sanaa. Kyse on hyvin pitkälti näkökulmasta. Pennas-juttu näytti, miltä KuPS näytti siinä tilanteessa ulkopuolelta. Kannattajat olisivat luonnollisesti halunneet nähdä kirjoitettuna oman &quot;sisäisemmän&quot; näkökulmansa.
+
+Jutut ja juttupalautteet ovat aina subjektiivisia. Niihin on aina valittu näkökulma, jota kirjoittaja korostaa. Toki kehitystä en kiellä. Tässä välissä on tullut kirjoitettua aika monta sataa futisjuttua. Olisi surullista, jos se ei näkyisi juttujen laadussa.]]></description>
+			<content:encoded><![CDATA[<p>Vastauksena kommenttiin <a href="/kuopion-karsimysviikko/#comment-7">Zalamapartio</a>.</p>
+<p>Tikulla silmään sitä, joka kolmen vuoden takaisia muistelee. Ymmärrän toki, että tämän jutun näkökulma miellyttää KuPS-kannattajaa Pennas-jutun vastaavaa enemmän, mutta se ei tee aiemmasta analysoinnista arvailua tai nykyisestä Jumalan sanaa. Kyse on hyvin pitkälti näkökulmasta. Pennas-juttu näytti, miltä KuPS näytti siinä tilanteessa ulkopuolelta. Kannattajat olisivat luonnollisesti halunneet nähdä kirjoitettuna oman &#8221;sisäisemmän&#8221; näkökulmansa.</p>
+<p>Jutut ja juttupalautteet ovat aina subjektiivisia. Niihin on aina valittu näkökulma, jota kirjoittaja korostaa. Toki kehitystä en kiellä. Tässä välissä on tullut kirjoitettua aika monta sataa futisjuttua. Olisi surullista, jos se ei näkyisi juttujen laadussa.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Kirjoittaja: Zalamapartio		</title>
+		<link>/kuopion-karsimysviikko/#comment-7</link>
+
+		<dc:creator><![CDATA[Zalamapartio]]></dc:creator>
+		<pubDate>Tue, 29 Apr 2014 12:41:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=198#comment-7</guid>
+
+					<description><![CDATA[Lari parantaa juoksuaan. Takana ovat puhtaat arvailut ja haahuiluanalyysit KuPSin ja TPSn sisaruskilpailusta yms, nykyään arvailun sijaan  faktaa ja mietittyä analyysiä hyvällä kynällä.]]></description>
+			<content:encoded><![CDATA[<p>Lari parantaa juoksuaan. Takana ovat puhtaat arvailut ja haahuiluanalyysit KuPSin ja TPSn sisaruskilpailusta yms, nykyään arvailun sijaan  faktaa ja mietittyä analyysiä hyvällä kynällä.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

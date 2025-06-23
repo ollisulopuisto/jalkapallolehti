@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Artikkelin Ohjelmakartalta kadonnut kommentit	</title>
+	<atom:link href="/ohjelmakartalta-kadonnut/feed/" rel="self" type="application/rss+xml" />
+	<link>/ohjelmakartalta-kadonnut/</link>
+	<description></description>
+	<lastBuildDate>Tue, 23 Sep 2014 12:47:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com/"/><atom:link rel="hub" href="https://websubhub.com/hub"/>	<item>
+		<title>
+		Kirjoittaja: KrunanPallo		</title>
+		<link>/ohjelmakartalta-kadonnut/#comment-20</link>
+
+		<dc:creator><![CDATA[KrunanPallo]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2014 12:47:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=510#comment-20</guid>
+
+					<description><![CDATA[Olisiko suorien ottelulähetysten tai lajin luonteelle vieraan &quot;futiskierroksen&quot; sijaan noin 30-45 minuutin viikottainen kotimaisen fudiksen makasiiniohjelma helpommin toteutettavissa - sekä katsojamäärien että suomalaisen kulttuurin edistämisen kannalta. Studiossa asiantuntevaa keskustelua, ottelukoosteita, pelaajahaastatteluja, silloin tällöin katsaus Ykköseen ja naisten otteluihin yms. Esikuvana Ruotsin SVT:n Fotbollskväll.]]></description>
+			<content:encoded><![CDATA[<p>Olisiko suorien ottelulähetysten tai lajin luonteelle vieraan &#8221;futiskierroksen&#8221; sijaan noin 30-45 minuutin viikottainen kotimaisen fudiksen makasiiniohjelma helpommin toteutettavissa &#8211; sekä katsojamäärien että suomalaisen kulttuurin edistämisen kannalta. Studiossa asiantuntevaa keskustelua, ottelukoosteita, pelaajahaastatteluja, silloin tällöin katsaus Ykköseen ja naisten otteluihin yms. Esikuvana Ruotsin SVT:n Fotbollskväll.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Kirjoittaja: Ounappi		</title>
+		<link>/ohjelmakartalta-kadonnut/#comment-19</link>
+
+		<dc:creator><![CDATA[Ounappi]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2014 09:47:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=510#comment-19</guid>
+
+					<description><![CDATA[Eurosport unohtunut kokonaan tästä. Siinä kanava, jolla muskeleita, suomalaista toimintaa ja näkyvyyttä laajasti.]]></description>
+			<content:encoded><![CDATA[<p>Eurosport unohtunut kokonaan tästä. Siinä kanava, jolla muskeleita, suomalaista toimintaa ja näkyvyyttä laajasti.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

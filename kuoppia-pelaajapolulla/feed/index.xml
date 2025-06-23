@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Artikkelin Kuoppia pelaajapolulla kommentit	</title>
+	<atom:link href="/kuoppia-pelaajapolulla/feed/" rel="self" type="application/rss+xml" />
+	<link>/kuoppia-pelaajapolulla/</link>
+	<description></description>
+	<lastBuildDate>Wed, 16 Sep 2015 15:45:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com/"/><atom:link rel="hub" href="https://websubhub.com/hub"/>	<item>
+		<title>
+		Kirjoittaja: Petri Tommila		</title>
+		<link>/kuoppia-pelaajapolulla/#comment-31</link>
+
+		<dc:creator><![CDATA[Petri Tommila]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2015 15:45:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1297#comment-31</guid>
+
+					<description><![CDATA[SPL on hurjasti kehittänyt junnupuolta ja hakenut kansainvälistä tietoa ja mallia. Kuten em. tuotu esille junnuissa hyviä valmennusmalleja ja pärjäävät nuorempina hyvin kansainvälisissäkin peleissä. Jos jossain maassa voidaan valkata isosta määrästä parhaita, niin Suomessa s]]></description>
+			<content:encoded><![CDATA[<p>SPL on hurjasti kehittänyt junnupuolta ja hakenut kansainvälistä tietoa ja mallia. Kuten em. tuotu esille junnuissa hyviä valmennusmalleja ja pärjäävät nuorempina hyvin kansainvälisissäkin peleissä. Jos jossain maassa voidaan valkata isosta määrästä parhaita, niin Suomessa s</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
